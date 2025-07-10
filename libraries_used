@@ -1,0 +1,4 @@
+-> pytesseract
+-> pyttsx3
+-> Pillow
+-> wand
